@@ -1,0 +1,129 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_5xpA6NnvCHS_course_id" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">J.Crew Passport</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="J.Crew_Passport_ORG">
+    <organization identifier="J.Crew_Passport_ORG">
+      <title>J.Crew Passport</title>
+      <item identifier="Untitled1_SCO" isvisible="true" identifierref="__5xpA6NnvCHS_course_id_RES">
+        <title>J.Crew Passport</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__5xpA6NnvCHS_course_id_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="mobile/66RedT6Cziv_P_330_432_3545_2658_DX1702_DY1702_CX1132_CY849.png" />
+      <file href="mobile/6CZJ4ZgY3NX_DX288_DY288_CX165_CY226.png" />
+      <file href="mobile/6qtbp0Ccf78_P_0_0_1465_1595_DX1354_DY1354_CX780_CY849.png" />
+      <file href="mobile/6KNJMGdJ4AR_DX1080_DY1080_CX849_CY849.jpg" />
+      <file href="mobile/6ChNCcm5gI8_P_533_0_1466_1999_DX1080_DY1080_CX623_CY849.png" />
+      <file href="mobile/6roPlINj5h1_DX692_DY692_CX272_CY346.png" />
+      <file href="mobile/6bYgRUo8Yif_DX866_DY866_CX256_CY342.png" />
+      <file href="mobile/6ELdHHavBR9_DX926_DY926_CX185_CY341.png" />
+      <file href="mobile/6bYgRUo8Yif_DX866_DY866_CX324_CY433.png" />
+      <file href="mobile/6ELdHHavBR9_DX928_DY928_CX264_CY487.png" />
+      <file href="mobile/68ZdjvfUQXn_DX924_DY924_CX155_CY341.png" />
+      <file href="mobile/6GWbwmKLun5_DX788_DY788_CX218_CY341.png" />
+      <file href="mobile/68ZdjvfUQXn_DX926_DY926_CX236_CY519.png" />
+      <file href="mobile/6GWbwmKLun5_DX788_DY788_CX252_CY394.png" />
+      <file href="meta.xml" />
+      <file href="story_content/user.js" />
+      <file href="mobile/txt__default_6cZbwVulWjr.png" />
+      <file href="mobile/txt__default_6RzN71v1L8w.png" />
+      <file href="mobile/txt__default_6apeWvKI27T.png" />
+      <file href="mobile/txt__default_6FG6qRe8pMe.png" />
+      <file href="mobile/txt__default_5rFmDUVr6Mn.png" />
+      <file href="mobile/txt__default_5YYWFaE0fWb.png" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5e4tFLJJ2my.js" />
+      <file href="html5/data/js/5h0rgDIwVV1.js" />
+      <file href="html5/data/js/5iM83lfmDDf.js" />
+      <file href="html5/data/js/5tVQc9M2fVH.js" />
+      <file href="html5/data/js/5w6X8cT8vuJ.js" />
+      <file href="html5/data/js/5ycCqmCGmD9.js" />
+      <file href="html5/data/js/5YUXrsuaBVu.js" />
+      <file href="html5/data/js/5YwgaSwi8fu.js" />
+      <file href="html5/data/js/60Vs3BdNrVv.js" />
+      <file href="html5/data/js/64OiAPDRfeH.js" />
+      <file href="html5/data/js/66f8MmzF1qb.js" />
+      <file href="html5/data/js/67RUemyVjdp.js" />
+      <file href="html5/data/js/6Be78IB4vst.js" />
+      <file href="html5/data/js/6BfvfhMAzP5.js" />
+      <file href="html5/data/js/6iyqeyF6nXv.js" />
+      <file href="html5/data/js/6JOaqjw4cyd.js" />
+      <file href="html5/data/js/6k6IXamVXPl.js" />
+      <file href="html5/data/js/6ktkY1dFKqM.js" />
+      <file href="html5/data/js/6PVl0w9vrUd.js" />
+      <file href="html5/data/js/6rNhmTxwTUO.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/scripts/ds-bootstrap.min.js" />
+      <file href="html5/lib/scripts/ds-frame.desktop.min.js" />
+      <file href="html5/lib/scripts/ds-frame.mobile.min.js" />
+      <file href="html5/lib/scripts/ds-slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
